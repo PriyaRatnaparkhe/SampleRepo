@@ -1,0 +1,7 @@
+class psp
+{
+public static void main(String gg[])
+{
+System.out.println("Hello , this is my first text file");
+}
+}s
